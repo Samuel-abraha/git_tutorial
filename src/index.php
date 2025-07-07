@@ -1,3 +1,3 @@
 <?php
-echo "version 3 under src";
+echo "version 1 under src";
 ?>
